@@ -1,6 +1,10 @@
 # CS4740 Spring 2021 Repo
 ### All code authored by Brooks Eason
 ___
+### What is CS4740?
+CS4740 at UVA is a class focused broadly on cloud computing. We discussed its use cases, technologies, and specific applications.
+This class exclusively used AWS as the cloud provider, so there will be AWS specific files like `lambda.py`, which is used by AWS Lambda (AWS' implementation of FaaS).
+___
 ### Note Regarding Repo Architecture
 Over the course of the semester we had 6 Programming Assignments, PA[1-6]. However, PA1 was just introduction to cloud computing, so there was nothing to push there.
 ___
