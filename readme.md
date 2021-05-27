@@ -12,7 +12,7 @@ ___
 In many of the files in this repo, there may be lines of code like:
 ```python
 """ Something like this or similar"""
-sample_api_call = requests.get("http://1.222.333.444:5000/API/version/response", payload)
+sample_api_call = requests.get("http://1.222.333.444:5000/API/version/response")
 ```
 For our purposes, we did not need to set up a persistent endpoint for vm interaction in the cloud, so the hard coded IPs are calls to the vm's IP I was using at the time.
 
